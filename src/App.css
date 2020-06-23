@@ -25,6 +25,7 @@ body {
 .app-btn {
   padding: 10px 20px;
   margin-right: 10px;
+  margin-bottom: 10px;
   background: #f1f2f6;
   color: #2f3542;
   text-transform: uppercase;
